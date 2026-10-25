@@ -58,6 +58,8 @@ After completing the XR experience, each participant receives a **Seed of Memori
 
 ## APK access
 
+[**Download SOM for Meta Quest 3**](https://github.com/yanicklambert3d-cmyk/SOM-Seed-of-Memories/releases/download/v1.0/SOM-1.0-research-build-2026-10-25.7z) · [Release v1.0](https://github.com/yanicklambert3d-cmyk/SOM-Seed-of-Memories/releases/tag/v1.0)
+
 The research APK is packaged in a password-protected .7z archive. Contact [lambertyanick@gmail.com](mailto:lambertyanick@gmail.com) to request access. See [installation instructions](INSTALLATION.md), [build information](BUILD-INFO.md) and [study reproduction notes](REPRODUCTION.md).
 
 ## Related links
