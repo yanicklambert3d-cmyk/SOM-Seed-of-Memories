@@ -139,7 +139,33 @@ Use a **Meta Quest 3** with controllers and hand tracking. For the haptic condit
 
 </details>
 
+## 🐞 Known Issues
+
+- Passthrough may render inconsistently during startup on some devices.
+- Controller grabbing can sometimes override hand gestures.
+- TactGlove may need to be reconnected if the connection drops during a session.
+- The XR Rig may remain linked to the Physical Hand system after returning from AR.
+- Frame rate may occasionally drop to around 50–55 FPS.
+
+## 📌 Roadmap
+
+- [x] Controller-based tutorial.
+- [x] Hand-tracking tutorial with animations.
+- [x] Quest 3 passthrough integration.
+- [x] TactGlove haptic feedback.
+- [x] Physical grabbing interactions.
+- [x] English and Portuguese support.
+- [ ] Further user testing and data collection.
+
+## License
+
+For licensing and reuse enquiries, contact [lambertyanick@gmail.com](mailto:lambertyanick@gmail.com).
+
 ## Related links
 
 - [Plant Growth Platform](https://som.yanicklambert.com)
-- [Project portfolio](https://yanicklambert.com/UXResearch.html)
+- [Author portfolio](https://yanicklambert.com)
+
+## Contact
+
+For APK access, questions or feedback, contact [lambertyanick@gmail.com](mailto:lambertyanick@gmail.com).
