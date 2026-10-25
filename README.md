@@ -11,7 +11,7 @@ Participants help restore Laura, the last laurel tree, by retrieving Magic Water
 Water and sunlight link the two parts of the experience: what participants seek in XR becomes what they provide through plant care.
 
 <details>
-<summary><strong>🔵 XR experience sequence — click to expand</strong></summary>
+<summary><strong>XR experience sequence</strong> <sub>(click to expand)</sub></summary>
 
 ![XR experience sequence of events](assets/som-experience-sequence.webp)
 
@@ -28,7 +28,7 @@ Water and sunlight link the two parts of the experience: what participants seek 
 The experience can be played without haptic gloves. To reproduce the study’s hand-tracking-with-haptics condition, bHaptics TactGlove is required; playing without the gloves is not the same experimental condition.
 
 <details>
-<summary><strong>🔵 SOM XR apparatus — click to expand</strong></summary>
+<summary><strong>SOM XR apparatus</strong> <sub>(click to expand)</sub></summary>
 
 ![SOM XR apparatus](assets/som-xr-apparatus.webp)
 
@@ -43,14 +43,14 @@ The study investigates embodiment, flow, perceived workload and connectedness to
 After completing the XR experience, each participant receives a **Seed of Memories Gift Box** containing a plant pot, soil, seeds, and planting and watering instructions. This begins the plant-care activity at home, supported by a reflective diary and a follow-up assessment over a period of up to two months.
 
 <details>
-<summary><strong>🔵 Seed of Memories Gift Box — click to expand</strong></summary>
+<summary><strong>Seed of Memories Gift Box</strong> <sub>(click to expand)</sub></summary>
 
 ![Seed of Memories Gift Box received after the XR experience](assets/giftBox.webp)
 
 </details>
 
 <details>
-<summary><strong>🔵 Procedure — from XR to plant care — click to expand</strong></summary>
+<summary><strong>Procedure — from XR to plant care</strong> <sub>(click to expand)</sub></summary>
 
 ![Study procedure — from XR to plant care](assets/som-study-procedure.webp)
 
@@ -63,7 +63,7 @@ After completing the XR experience, each participant receives a **Seed of Memori
 The research APK is packaged in a password-protected .7z archive. Contact [lambertyanick@gmail.com](mailto:lambertyanick@gmail.com) to request access.
 
 <details>
-<summary><strong>🔵 Installation & Usage — click to expand</strong></summary>
+<summary><strong>Installation &amp; Usage</strong> <sub>(click to expand)</sub></summary>
 
 1. Download the SOM archive from [Releases](https://github.com/yanicklambert3d-cmyk/SOM-Seed-of-Memories/releases/tag/v1.0) and request the password at [lambertyanick@gmail.com](mailto:lambertyanick@gmail.com).
 2. Extract **SOM 2026.apk** using [7-Zip](https://www.7-zip.org/) and the password provided.
@@ -76,7 +76,7 @@ The research APK is packaged in a password-protected .7z archive. Contact [lambe
 </details>
 
 <details>
-<summary><strong>🔵 Build information — click to expand</strong></summary>
+<summary><strong>Build information</strong> <sub>(click to expand)</sub></summary>
 
 Seed of Memories is a standalone XR experience for Meta Quest 3. This research build supports the interaction conditions described in the study.
 
@@ -110,7 +110,7 @@ Game data is included in the APK. The SHA-256 below identifies this exact build 
 </details>
 
 <details>
-<summary><strong>🔵 Study reproduction notes — click to expand</strong></summary>
+<summary><strong>Study reproduction notes</strong> <sub>(click to expand)</sub></summary>
 
 This guide describes the hardware, interaction conditions and procedure used in the SOM study.
 
