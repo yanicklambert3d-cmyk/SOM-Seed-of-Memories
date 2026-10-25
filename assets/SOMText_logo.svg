@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="110.78182mm"
+   viewBox="0 0 210 110.78182"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       xlink:href="#linearGradient7150"
+       id="linearGradient19002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.0796948,0,0,6.0796948,2151.5627,-2281.8032)"
+       x1="-352.92419"
+       y1="408.08093"
+       x2="-329.13748"
+       y2="405.07248" />
+    <linearGradient
+       id="linearGradient7150">
+      <stop
+         style="stop-color:#00ffcc;stop-opacity:1;"
+         offset="0"
+         id="stop7146" />
+      <stop
+         style="stop-color:#1cfc96;stop-opacity:1"
+         offset="1"
+         id="stop7148" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(0,-115.85455)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.574px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient19002);fill-opacity:1;stroke-width:6.04309"
+       x="5.8910985"
+       y="199.20465"
+       id="text18974"><tspan
+         id="tspan18972"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cinzel;-inkscape-font-specification:'Cinzel Bold';fill:url(#linearGradient19002);fill-opacity:1;stroke-width:6.04309"
+         x="5.8910985"
+         y="199.20465">SOM</tspan></text>
+  </g>
+</svg>
