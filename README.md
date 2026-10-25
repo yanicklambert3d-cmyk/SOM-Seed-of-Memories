@@ -1,10 +1,10 @@
-# 🌱 Seed of Memories (SOM)
+# <img src="assets/SOM_logo.svg" alt="" height="34"> Seed of Memories (SOM)
 
-![Seed of Memories — scenes from the XR experience](assets/som-banner.webp)
+![Seed of Memories - scenes from the XR experience](assets/som-banner.webp)
 
 Seed of Memories is an XR exploration-based serious game that connects virtual interaction with real-world plant care. Built with Unity 6 URP for Meta Quest 3, it explores embodied interaction and connectedness to nature through a journey inspired by Madeira’s Laurisilva forest and its ecological and cultural heritage.
 
-## 🎮 The experience
+## <img src="assets/SOMText_logo.svg" alt="" height="28"> The experience
 
 Participants help restore Laura, the last laurel tree, by retrieving Magic Water from the Future and Magic Light from the Past. Underwater exploration, environmental puzzles and gesture-based interactions lead to a final passthrough sequence that connects the virtual quest with caring for a real plant.
 
@@ -17,7 +17,7 @@ Water and sunlight link the two parts of the experience: what participants seek 
 
 </details>
 
-## 🥽 Interaction and study setup
+## <img src="assets/logo_VR.svg" alt="" height="28"> Interaction and study setup
 
 - **Platform:** Meta Quest 3, running as a standalone application.
 - **Development:** Unity 6 with the Universal Render Pipeline (URP).
@@ -50,9 +50,9 @@ After completing the XR experience, each participant receives a **Seed of Memori
 </details>
 
 <details>
-<summary><strong>🌿 Procedure — from XR to plant care</strong> <code>(click to expand)</code></summary>
+<summary><strong>🌿 Procedure - from XR to plant care</strong> <code>(click to expand)</code></summary>
 
-![Study procedure — from XR to plant care](assets/som-study-procedure.webp)
+![Study procedure - from XR to plant care](assets/som-study-procedure.webp)
 
 </details>
 
@@ -85,7 +85,7 @@ Seed of Memories is a standalone XR experience for Meta Quest 3. This research b
 | Item | Value |
 |---|---|
 | Application | Seed of Memories (SOM) |
-| Platform | Meta Quest 3 — standalone XR |
+| Platform | Meta Quest 3 - standalone XR |
 | Engine | Unity 6 · Universal Render Pipeline |
 | APK filename | SOM 2026.apk |
 | Package identifier | com.ITI_LogaCulture.SOM_2026_PT_EN |
@@ -157,8 +157,8 @@ Use a **Meta Quest 3** with controllers and hand tracking. For the haptic condit
 
 ## 🔗 Related links
 
-- [Plant Growth Platform](https://som.yanicklambert.com)
-- [Author portfolio](https://yanicklambert.com)
+- [Plant Growth Platform](https://som.yanicklambert.com/)
+- [Author portfolio](https://yanicklambert.com/)
 
 ## ✉️ Contact
 
