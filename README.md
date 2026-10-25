@@ -25,7 +25,7 @@ Water and sunlight link the two parts of the experience: what participants seek 
 - **Past scenario:** hand tracking and gesture-based teleportation; bHaptics TactGlove supplies feedback in the experimental condition.
 - **Final transition:** VR to colour passthrough.
 
-The experience can be played without haptic gloves. To reproduce the study’s hand-tracking-with-haptics condition, bHaptics TactGlove is required; playing without the gloves is not the same experimental condition.
+Haptic gloves are optional for playing. To reproduce the study’s haptic condition, use paired and calibrated **bHaptics TactGlove** in the Past scenario.
 
 <details>
 <summary><strong><picture><img src="assets/logo_VR.svg" alt="" height="20"></picture> SOM XR apparatus</strong> <code>(click to expand)</code></summary>
@@ -71,8 +71,6 @@ The research APK is packaged in a password-protected .7z archive. Contact [lambe
 4. Launch **SOM** from your headset.
 5. Follow the in-game tutorial to begin the experience.
 
-**Haptic feedback:** You can play without gloves. To reproduce the study’s haptic condition, pair your **bHaptics TactGlove** before starting.
-
 </details>
 
 <details>
@@ -94,10 +92,6 @@ Seed of Memories is a standalone XR experience for Meta Quest 3. This research b
 | Architecture | ARM64 (arm64-v8a) |
 | Minimum / target SDK | 32 / 32 |
 | APK size | 1,337,011,707 bytes (approximately 1.34 GB) |
-
-### <picture><img src="assets/logo_VR.svg" alt="" height="20"></picture> Interaction
-
-The experience supports controllers, hand tracking and passthrough. It can be played without haptic gloves. Reproducing the experimental hand-tracking-with-haptics condition requires bHaptics TactGlove.
 
 ### <picture><img src="assets/build.svg" alt="" height="20"></picture> File integrity
 
@@ -122,7 +116,7 @@ This guide describes the hardware, interaction conditions and procedure used in 
 | Past | Hand tracking, gesture-based teleportation and bHaptics TactGlove feedback |
 | End of XR | Colour passthrough and introduction to plant care |
 
-The experience can be played without gloves. To reproduce the hand-tracking-with-haptics condition, use bHaptics TactGlove, paired and calibrated, and retain the fixed Future-then-Past order.
+Keep the fixed **Future-then-Past** order used in the study.
 
 The haptic design combines discrete feedback for narrative events with continuous wrist feedback. The wrist-feedback intensity varies between 5% and 30%, modulated at 2 Hz with a 10 Hz update rate.
 
@@ -135,7 +129,7 @@ The haptic design combines discrete feedback for narrative events with continuou
 
 ### <picture><img src="assets/logo_VR.svg" alt="" height="20"></picture> Equipment and play area
 
-Use a **Meta Quest 3** with controllers and hand tracking. For the haptic condition, pair and calibrate the **bHaptics TactGlove** before starting. Prepare a clear play area of approximately **3 m²** and set the headset boundary.
+Use a **Meta Quest 3** with controllers and hand tracking. Prepare a clear play area of approximately **3 m²** and set the headset boundary.
 
 </details>
 
