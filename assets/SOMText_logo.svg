@@ -7,9 +7,35 @@
    viewBox="0 0 40 40"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="SOMText_logo.svg"
+   inkscape:export-filename="..\..\..\..\OneDrive\Ambiente de Trabalho\logo_VR.svg"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1798822"
+     inkscape:cx="155.74602"
+     inkscape:cy="121.4149"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <clipPath
@@ -18,18 +44,21 @@
       <path
          style="fill:#333333;stroke:none;stroke-width:0.4;stroke-dasharray:none"
          d="m 17.612791,36.971195 -1.074224,0.246176 -0.268556,-0.111898 h -0.201416 c 0,0 -0.380455,0.335696 -0.626631,0.380455 -0.246176,0.04476 -4.184996,0.60425 -6.1991654,0.492353 C 7.2286297,37.866383 5.5949146,36.65788 5.3487383,35.538896 L 5.2144605,35.001784 3.0883929,34.845127 c 0,0 -1.8785984,-6.664989 -1.8542929,-6.765631 0.024305,-0.100648 3.7341842,-7.244034 3.7341842,-7.244034 l 7.4607848,-1.033366 c 1.119441,-0.141481 2.152476,-0.223575 3.61704,-0.340627 3.018963,-0.241283 6.135533,-0.02008 9.368058,0.13361 0.799557,0.03801 1.54261,0.102356 2.308904,0.29561 l 9.248124,2.332312 c 0,0 1.146834,7.870551 1.220417,8.165508 0.07358,0.294958 -0.710488,5.172769 -0.710488,5.172769 l -2.635996,-0.805667 c 0,0 -0.223796,1.544195 -1.544196,2.327484 -1.320401,0.783285 -2.461763,0.783285 -2.73032,0.805667 -0.268555,0.02238 -3.647882,-0.134279 -4.610208,-0.246177 -0.962326,-0.111897 -1.656095,-0.402833 -1.656095,-0.402833 l -0.290936,-0.290936 -0.313315,0.06714 -0.134278,0.179038 -0.111898,-0.02238 c 0,0 -3.356949,-1.029467 -5.841091,-0.201419 z"
-         id="path6" />
+         id="path6"
+         sodipodi:nodetypes="ccccsscccsccssccsccssscccccc" />
     </clipPath>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient7150"
        id="linearGradient19002"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2448823,0,0,1.2448823,439.22624,-468.35163)"
+       gradientTransform="matrix(1.2448823,0,0,1.2448823,439.22624,-472.90917)"
        x1="-352.92419"
        y1="408.08093"
        x2="-329.13748"
        y2="405.07248" />
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient7150">
       <stop
          style="stop-color:#00ffcc;stop-opacity:1;"
@@ -42,6 +71,8 @@
     </linearGradient>
   </defs>
   <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="fill:none;stroke:none;stroke-width:0.925865"
@@ -54,11 +85,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.4984px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient19002);fill-opacity:1;stroke-width:1.23739"
        x="-0.12286544"
-       y="39.66114"
+       y="35.103596"
        id="text18974"><tspan
+         sodipodi:role="line"
          id="tspan18972"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cinzel;-inkscape-font-specification:'Cinzel Bold';fill:url(#linearGradient19002);fill-opacity:1;stroke-width:1.23739"
          x="-0.12286544"
-         y="39.66114">SOM</tspan></text>
+         y="35.103596">SOM</tspan></text>
   </g>
 </svg>
