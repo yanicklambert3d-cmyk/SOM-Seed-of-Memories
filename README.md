@@ -13,7 +13,7 @@ Water and sunlight link the two parts of the experience: what participants seek 
 <details>
 <summary><strong>🔵 XR experience sequence — click to expand</strong></summary>
 
-![XR experience sequence of events](assets/som-experience-sequence.png)
+![XR experience sequence of events](assets/som-experience-sequence.webp)
 
 </details>
 
@@ -30,7 +30,7 @@ The experience can be played without haptic gloves. To reproduce the study’s h
 <details>
 <summary><strong>🔵 SOM XR apparatus — click to expand</strong></summary>
 
-![SOM XR apparatus](assets/som-xr-apparatus.png)
+![SOM XR apparatus](assets/som-xr-apparatus.webp)
 
 </details>
 
@@ -45,14 +45,14 @@ After completing the XR experience, each participant receives a **Seed of Memori
 <details>
 <summary><strong>🔵 Seed of Memories Gift Box — click to expand</strong></summary>
 
-![Seed of Memories Gift Box received after the XR experience](assets/giftBox.png)
+![Seed of Memories Gift Box received after the XR experience](assets/giftBox.webp)
 
 </details>
 
 <details>
 <summary><strong>🔵 Procedure — from XR to plant care — click to expand</strong></summary>
 
-![Study procedure — from XR to plant care](assets/som-study-procedure.png)
+![Study procedure — from XR to plant care](assets/som-study-procedure.webp)
 
 </details>
 
